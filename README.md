@@ -1,6 +1,6 @@
 # Comboboy
 
-The source code for a small game made in 48 hours for LD46.
+This is the source code for a small game made in 48 hours for LD46.  
 Made by [Peter Jonsson](https://peterjonsson.se).
 
 ## Description
@@ -20,5 +20,5 @@ Use the mouse to plan Comboboy's movement.
 
 ## Technical Details
 
-Everything was made inside Game Maker Studio 2 during LD46.
+Everything was made inside Game Maker Studio 2 during LD46.  
 At the time of submission, the project time in Game Maker Studio was just over 31 hours.
