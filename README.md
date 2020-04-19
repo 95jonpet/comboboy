@@ -21,4 +21,4 @@ Use the mouse to plan Comboboy's movement.
 ## Technical Details
 
 Everything was made inside Game Maker Studio 2 during LD46.
-At the time of submission, the project time in Game Maker Studio was just above 31 hours.
+At the time of submission, the project time in Game Maker Studio was just over 31 hours.
