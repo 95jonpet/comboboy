@@ -7,6 +7,8 @@ if (!audio_is_playing(snMusic)) {
     audio_play_sound(snMusic, 0, true)
 }
 
+surface_resize(application_surface, window_get_width(), window_get_height())
+
 randomize()
 phase = phases.planning
 waypoints = ds_list_create()
