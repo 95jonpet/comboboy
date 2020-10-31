@@ -5,6 +5,8 @@ Made by [Peter Jonsson](https://peterjonsson.se).
 
 Link to the entry: [Comboboy in LD46](https://ldjam.com/events/ludum-dare/46/comboboy).
 
+![Screenshot of Comboboy](https://static.jam.vg/raw/1f1/8/z/2bba4.png)
+
 ## Description
 
 Comboboy is lost and running out of energy. Help him in this turn-based puzzle game.
